@@ -14,6 +14,6 @@ I am a passionate programmer who loves solving coding challenges and building pr
 - Data Structures & Algorithms
 
 ## Contact Me
-- Email: your.email@example.com
-- [GitHub](https://github.com/YourUsername)
+- Email: golipavan888@gmail.com
+- [GitHub](https://github.com/GoliPavan888)
 

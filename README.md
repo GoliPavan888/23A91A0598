@@ -1,7 +1,4 @@
-<!-- Profile Card -->
-<div align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/c510b21c-c261-4ab1-864a-dd02c8a89028.png" width="320" alt="Pavan Kumar Goli graphical card"/>
-</div>
+
 
 # Hi, I'm Pavan Kumar Goli 👋
 

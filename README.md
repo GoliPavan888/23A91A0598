@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Pavan Kumar Goli 👋
 
 🚀 **About Me**  
